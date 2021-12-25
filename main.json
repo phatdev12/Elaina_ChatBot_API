@@ -334,6 +334,23 @@
 		"rửa mặt đi vô kể cho nghe"
             ]
         },
+	    {
+            "intent": "other.sex",
+            "utterances": [
+                "djt không",
+		"địt",
+		"chịch",
+		"lồn",
+		"cặc",
+		"cc"
+            ],
+            "answers": [
+                "hoi",
+                "lỡ tớ có bầu rồi shao",
+		"xong cậu có chịu trách nhiệm hơm",
+		"tớ nghỉ chơi zới cậu luôn"
+            ]
+        },
         {
             "intent": "other.damnhau",
             "utterances": [

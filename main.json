@@ -85,6 +85,7 @@
             "answers": [
                 "bảo tớ ngu thì đi chỗ khác chơi nhá",
                 "gòi dỗi luôn",
+                "ơ kía sao nói thế",
                 "nhỗi lun ó"
             ]
         },
@@ -120,6 +121,7 @@
                 "mập"
             ],
             "answers": [
+                "đẹp hơn đồ chưa có người yêu :>",
                 "dỗi luôn",
                 "đi chỗ khác chơi",
                 "tớ dỗi, đi chỗ khác đi",
@@ -139,7 +141,7 @@
                 "Hứm, tưởng xin lỗi là xong à? Quay đít ra đây!",
                 "Hừm! Còn xem có cải thiện không đã!",
                 "Thật k :)",
-                "Mua kem cho i, hết dỗi ngay"
+                "Mua cốc trà sũa cho i, hết dỗi ngay"
             ]
         },
         {
@@ -152,6 +154,7 @@
                 "huhu tớ chưa có :(",
                 "vẫn chưa nà",
                 "chưaaaaaaaaaaaaaa",
+                "còn lầu mới có"
                 "bảo rồi còn gì :/"
             ]
         },
@@ -317,6 +320,16 @@
                 "thôi dịch như này đi làm gì",
                 "nghèo lắm",
                 "đợi hỏi mẹ đã"
+            ]
+        },
+        {
+            "intent": "other.cauhoi",
+            "utterances": [
+                "có truyện cười không",
+            ],
+            "answers": [
+                "k có",
+                "nỏ có"
             ]
         },
         {

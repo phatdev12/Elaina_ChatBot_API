@@ -125,7 +125,8 @@
                 "dỗi luôn",
                 "đi chỗ khác chơi",
                 "tớ dỗi, đi chỗ khác đi",
-                "hong chịu âu, dìa méc mẹ nà"
+                "hong chịu âu, dìa méc mẹ nà",
+		"BodySamsung kìa"
             ]
         },
         {
@@ -141,7 +142,8 @@
                 "Hứm, tưởng xin lỗi là xong à? Quay đít ra đây!",
                 "Hừm! Còn xem có cải thiện không đã!",
                 "Thật k :)",
-                "Mua cốc trà sũa cho i, hết dỗi ngay"
+                "Mua cốc trà sũa cho i, hết dỗi ngay",
+		"Xin lỗi rồi thì đưa đít đây"
             ]
         },
         {
@@ -216,7 +218,8 @@
                 "cho xin địa chỉ"
             ],
             "answers": [
-                "Nghệ An nha, gái Nghệ An vừa xinh vừa hiền :))"
+                "Nghệ An nha, gái Nghệ An vừa xinh vừa hiền :))",
+		"Ở Nghệ An nè, ra đây đón tớ i"
             ]
         },
         {
@@ -229,7 +232,9 @@
                 "simsimi hay sao"
             ],
             "answers": [
-                "tớ tên là hmm, hong nói âu"
+                "tớ tên là hmm, hong nói âu",
+		"khum có tên",
+		"Tên ngay trên đầu tớ kìa"
             ]
         },
         {
@@ -252,7 +257,8 @@
             "answers": [
                 "HẢO :)))",
                 "Hảo hán",
-                "Còn phải nói:))))"
+                "Còn phải nói:))))",
+		"Hảo Hảo chua cay"
             ]
         },
         {
@@ -279,7 +285,8 @@
                 "ai trả đêy",
                 "say có dắt về k",
                 "nhậu xong làm j",
-                "đi mẹ mắng á"
+                "đi mẹ mắng á",
+		"Bao rồi đi"
             ]
         },
         {

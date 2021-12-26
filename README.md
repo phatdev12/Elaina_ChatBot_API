@@ -9,7 +9,14 @@ answers là phần bot sẽ reply lại
 
 *Lưu ý: sử dụng ngôn từ phù hợp
 
-
+Cách dùng API:
+const key = "your_key"
+let res = await axios.get(encodeURI(`https://api.elainateam.xyz/chatbot?key=${key}&msg=${message.content}`));
+    if (!res.data.msg){
+        return message.channel.send(`Tớ hong biết bạn đang nói j á`)
+    }else{
+        return message.channel.send(res.data.msg)
+    }
 
 Credit: 
 Owner: Peter Tuan Anh, DiozVN

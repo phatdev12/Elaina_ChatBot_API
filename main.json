@@ -155,7 +155,7 @@
                 "huhu tớ chưa có :(",
                 "vẫn chưa nà",
                 "chưaaaaaaaaaaaaaa",
-                "còn lâu mới có"
+                "còn lâu mới có",
                 "bảo rồi còn gì :/"
             ]
         },
@@ -321,34 +321,6 @@
                 "thôi dịch như này đi làm gì",
                 "nghèo lắm",
                 "đợi hỏi mẹ đã"
-            ]
-        },
-        {
-            "intent": "other.cauhoi",
-            "utterances": [
-                "có truyện cười không",
-            ],
-            "answers": [
-                "k có",
-                "có nà có",
-		"rửa mặt đi vô kể cho nghe"
-            ]
-        },
-	    {
-            "intent": "other.sex",
-            "utterances": [
-                "djt không",
-		"địt",
-		"chịch",
-		"lồn",
-		"cặc",
-		"cc"
-            ],
-            "answers": [
-                "hoi",
-                "lỡ tớ có bầu rồi shao",
-		"xong cậu có chịu trách nhiệm hơm",
-		"tớ nghỉ chơi zới cậu luôn"
             ]
         },
         {
